@@ -1,7 +1,7 @@
 insert into Motorista values (123456,'Cirino da Silva','10/05/1991','01/02/2016','Rua Manoel Fonseca','A','A');
- insert into Motorista values (123457,'Rom„o da Motta','10/05/1977','01/02/1995','Rua 7 de setembro','A','A');
+ insert into Motorista values (123457,'Rom√£o da Motta','10/05/1977','01/02/1995','Rua 7 de setembro','A','A');
  insert into Motorista values (123458,'Mariano Siqueira','10/05/1981','01/02/2000','Rua 15 de novembro','C','A');
- insert into Motorista values (123459,'JosÈ Gustavo Almeida','10/05/1975','01/02/2016','Rua 15 de agosto','C','A');
+ insert into Motorista values (123459,'Jos√© Gustavo Almeida','10/05/1975','01/02/2016','Rua 15 de agosto','C','A');
  insert into Motorista  values (123450,'Fabiana Platina','10/05/1988','01/02/2004','Rua9 de julho','C','A');
  insert into Motorista  values (123451,'Jair Rodrigues','10/05/1988','01/02/2004','Rua 16 de agosto','C','A');
 
@@ -17,21 +17,21 @@ insert into Motorista values (123456,'Cirino da Silva','10/05/1991','01/02/2016'
  insert into veiculo values ('ZUM1234','Prisma','Chevrolet',2009,'branco');
  
  insert into multa values (1,123456,'CPD1234','10/01/2016','grave',700,4);
- insert into multa values (2,123456,'CPD1234','31/01/2016','mÈdia',300,3);
- insert into multa values (3,123457,'TII1234','10/02/2016','gravÌssima',1200,7);
+ insert into multa values (2,123456,'CPD1234','31/01/2016','m√©dia',300,3);
+ insert into multa values (3,123457,'TII1234','10/02/2016','grav√≠ssima',1200,7);
  insert into multa values (4,123457,'TII1234','10/02/2016','grave',700,4);
  insert into multa values (5,123457,'CPD1235','10/02/2016','grave',700,4);
  insert into multa values (6,123458,'CPD1235','10/03/2016','grave',700,4);
  insert into multa values (7,123458,'CPD1234','10/03/2016','grave',700,4);
- insert into multa values (8,123459,'CPD1234','10/03/2016','gravÌssima',1200,7);
+ insert into multa values (8,123459,'CPD1234','10/03/2016','grav√≠ssima',1200,7);
  insert into multa values (9,123459,'CPD1234','10/04/2016','grave',700,4);
  insert into multa values (10,123459,'CPD1234','10/01/2015','grave',700,4);
- insert into multa values (11,123459,'CPD1234','10/01/2015','gravÌssima',1200,7);
+ insert into multa values (11,123459,'CPD1234','10/01/2015','grav√≠ssima',1200,7);
  insert into multa values (12,123459,'TII1234','10/01/2015','grave',700,4);
- insert into multa values (13,123459,'CPD1234','10/01/2014','gravÌssima',1200,7);
+ insert into multa values (13,123459,'CPD1234','10/01/2014','grav√≠ssima',1200,7);
  insert into multa values (14,123459,'TII1234','10/01/2014','grave',700,4);
  insert into multa values (15,123450,'TOI0000','10/01/2014','grave',700,4);
- insert into multa values (16,123450,'TOI0000','10/01/2014','gravÌssima',1200,7);
+ insert into multa values (16,123450,'TOI0000','10/01/2014','grav√≠ssima',1200,7);
  insert into multa values (17,123450,'TOI0000','10/01/2014','grave',700,4);
  insert into multa values (18,123450,'ZZZ1234','10/01/2014','grave',700,4);
  insert into multa values (19,123450,'ZZZ1234','10/01/2014','leve',200,1);
